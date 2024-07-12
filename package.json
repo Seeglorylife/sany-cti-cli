@@ -5,15 +5,29 @@
   "main": "index.js",
   "type": "module",
   "bin": {
-    "sany-cti-cli": "./bin/cli.js"
+    "sany-cli": "./bin/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seeglorylife/sany-cti-cli"
   },
   "author": {
     "name": "Seeglorylife",
     "email": "tan_waibin@163.com"
   },
+  "keywords": [
+    "sany-cti-cli",
+    "sany-cli",
+    "脚手架"
+  ],
+  "homepage": "https://github.com/Seeglorylife/sany-cti-cli#readme",
   "license": "MIT",
   "dependencies": {
     "chalk": "^5.3.0",
