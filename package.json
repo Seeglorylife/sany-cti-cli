@@ -1,11 +1,11 @@
 {
   "name": "sany-cti-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "三一工车事业部控制技术所前端脚手架",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "sany-cli": "./bin/cli.js"
+    "sany-cti-cli": "./bin/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,7 +24,6 @@
   },
   "keywords": [
     "sany-cti-cli",
-    "sany-cli",
     "脚手架"
   ],
   "homepage": "https://github.com/Seeglorylife/sany-cti-cli#readme",
