@@ -43,7 +43,7 @@ sany-cti-cli create [projectName]
 
 ```bash
 # 指定项目名&模版名
-sany-cti-cli create [projectName] -t <templateName>
+sany-cti-cli create <projectName> -t <templateName>
 ```
 
 ```bash

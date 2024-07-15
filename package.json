@@ -1,6 +1,6 @@
 {
   "name": "sany-cti-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "控制所前端脚手架",
   "main": "index.js",
   "type": "module",
